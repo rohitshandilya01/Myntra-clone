@@ -12,3 +12,9 @@ This is a frontend clone of the popular Indian fashion e-commerce platform **Myn
 * Product grid with filters
 * Product detail view
 * Add to cart functionality (static/dynamic)
+
+
+**
+👇👇👇
+
+Backend and cart management in process 
